@@ -1,5 +1,2 @@
 # Bootcamp
-Lorem ipsum
-Lorem ipsum
-Lorem ahoj ahoj
-Lorem ipsum
+dneska je utery a venku snezi
